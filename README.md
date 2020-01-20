@@ -1,6 +1,6 @@
-# InterestingScripts
+﻿# InterestingScripts
 
-## [一键安装Shadowsocks Server脚本](https://github.com/ahtcfg24/InterestingScripts/blob/master/shell/ssserver-install.sh)
+## [安装Shadowsocks Server脚本](https://github.com/ahtcfg24/InterestingScripts/blob/master/shell/ssserver-install.sh)
 * 适用系统：CentOS7
 * 准备工作：一台安装了CentOS的虚拟机，复制脚本到虚拟机上，脚本授予755或以上权限
 * 使用方法：./ssserver-install.sh 你想设置的密码 你想开启的端口
